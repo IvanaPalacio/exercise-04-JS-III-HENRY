@@ -1,0 +1,7 @@
+Explicación
+
+Array/arreglo:
+
+Es una lista de elementos ordenados, se ordenan mediante un índice que no se ve 
+pero que nosotros tenemos que imaginar (el conteo de ese orden inicia en 0, no en 1).
+El array sirve para guardar elementos que luego se pueden llamar por medio de su índice.
